@@ -54,3 +54,5 @@ Because its register the connection and this is part of Manager structure and ot
 * Listener { RoomId  Chan}
 * Manager { 2chan   broadcast}
 * NewRoomManager  {  }
+
+_readmore_ https://pkg.go.dev/github.com/dustin/go-broadcast
